@@ -1,0 +1,2 @@
+1. Help me to build the project. Watch the screenshot.
+2. Give me clean code of the project, in next js, professional structure, minimul design attractive look.
