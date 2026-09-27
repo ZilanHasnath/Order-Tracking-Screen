@@ -2,7 +2,7 @@
 
 A modern, responsive mobile order tracking interface built for e-commerce applications.
 
-## ✨ Features
+## Features
 
 - **Clear Progress Timeline:** Visual tracking showing current status and delivery history at a glance.
 - **Handles Edge-Case Scenarios:**  
@@ -12,7 +12,7 @@ A modern, responsive mobile order tracking interface built for e-commerce applic
 - **Interactive Support Bar & Order Summary:** Easy access to item details and customer support options.
 - **Mobile First Design:** Tailored for standard mobile viewports (360px - 430px).
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework:** Next.js 14 (App Router)
 - **Language:** TypeScript
@@ -28,7 +28,8 @@ A modern, responsive mobile order tracking interface built for e-commerce applic
 ```
 
 2. **Run development server:**
-npm run dev
+   ```bash
+   npm run dev
 
 ```
 
